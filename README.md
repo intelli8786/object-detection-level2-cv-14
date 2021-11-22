@@ -1,3 +1,5 @@
+개인 리포트 [Report_T2060.pdf](https://github.com/intelli8786/object-detection-level2-cv-14/files/7577743/Report_T2060.pdf)
+
 ## 재활용 쓰레기 Object Detection
 
 <img src="https://user-images.githubusercontent.com/44287798/137435947-efc7e013-6f00-4dee-b8fa-0fc4b255de89.png" width="300">  <img src="https://user-images.githubusercontent.com/44287798/137436777-3cacccf1-84a0-45df-86ba-42a207436bf2.png" width="310">
